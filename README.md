@@ -1,7 +1,6 @@
 # Hello World App
 
-This is a simple Java Maven project.
+This is my GitHub project which i perform CI/CD pipeline on.
 
-## Output
+My local project.
 
-Hello, World! 
